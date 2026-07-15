@@ -246,11 +246,13 @@ Example:
 ## Acknowledgement 
 
 This repository was created while studying **Lecture 1** of the Python Full course by **Shradha Khapra (Apna College)** on YouTube.
+
 The code examples follow the concepts taught in the lecture, while the explanations, notes, and code comments are written by me in my own words according to my understanding.
 
 ## Learning Resource
 
 YouTube channel link: https://youtube.com/@shradhakd?si=4b50O-lVe0Zf7bcH
+
 YouTube video link: https://youtu.be/t2_Q2BRzeEE?si=hbBs8VBtPJkVM58s
 
 ## Note for the Reader
