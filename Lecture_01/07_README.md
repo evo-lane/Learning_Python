@@ -243,12 +243,16 @@ Example:
  age = int(input("Enter age:" ))
  Now in the above line the age will be entered as an integer.
 
-## Learning Resource
+## Acknowledgement 
 
-This repository was created while studying **Lecture 1** of the Python course by **Shradha Khapra (Apna College)** on YouTube.
-
+This repository was created while studying **Lecture 1** of the Python Full course by **Shradha Khapra (Apna College)** on YouTube.
 The code examples follow the concepts taught in the lecture, while the explanations, notes, and code comments are written by me in my own words according to my understanding.
 
-## Feedback
+## Learning Resource
+
+YouTube channel link: https://youtube.com/@shradhakd?si=4b50O-lVe0Zf7bcH
+YouTube video link: https://youtu.be/t2_Q2BRzeEE?si=hbBs8VBtPJkVM58s
+
+## Note for the Reader
 
 Feedback and suggestions are always appreciated. If you notice any mistakes or think something can be explained or implemented in a better way, feel free to share your suggestions.
