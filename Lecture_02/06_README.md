@@ -296,4 +296,17 @@
        else:
          print("You are underage")
       ```
-      
+
+   ## Acknowledgement
+
+   This lecture is based on the Python Full Course by Shradha Khapra on YouTube.
+
+  ## Learning Resource:
+  
+   Youtube channel link: https://youtube.com/@shradhakd?si=CHUcX8i4qehCVWGj
+   
+   Youtube video link: https://youtu.be/lIId8IDP6TU?si=wtiGAWi-r5-Elawk
+
+   ## Suggestions & Corrections
+
+   If you find any mistakes, incorrect explanations, or areas that can be improved in this repository, feel free to point them out. Constructive feedback helps me learn and improve.
