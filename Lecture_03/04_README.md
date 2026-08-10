@@ -116,9 +116,9 @@ Methods are specific functions to perform particular tasks. There are multiple
 different list methods. Some of them are given below:
 
 1. append() => used to add a single element at the end of the list
-----Syntax:
+Syntax:
     list_name.append(element) 
-----Example code:    
+    Example code:    
 ```python
 marks = [87, 64, 33, 95]
 marks.append(100)
@@ -128,54 +128,54 @@ print(marks)
 # The element can be of any data type
 ```
 2. sort() => sort the list in ascending order
-----Syntax:
+Syntax:
     list_name.sort() 
-----Example code: 
+Example code: 
 ```python
 marks = [87, 64, 33, 95]
 marks.sort()
 print(marks)
 ```
 3. sort(reverse = True) => sort the list in descending order
-----Syntax:
+Syntax:
     list_name.sort(reverse=True) 
-----Example code: 
+Example code: 
 ```python
 marks = [87, 64, 33, 95]
 marks.sort(reverse = True)
 print(marks)
 ```
 4. reverse() => reverse the list
-----Syntax:
+Syntax:
     list_name.reverse() 
-----Example code: 
+Example code: 
 ```python
 marks = [87, 64, 33, 95]
 marks.reverse()
 print(marks)
 ```
 5. remove() => remove first occurrence of element
-----Syntax:
+Syntax:
     list_name.remove(element) 
-----Example code: 
+Example code: 
 ```python
 num = [1, 2, 3, 1]
 num.remove(1)
 print(num)
 ```
 6. pop() => removes element at specific index
-----Syntax:
+Syntax:
     list_name.pop(index) 
-----Example code: 
+Example code: 
 ```python
 marks = [87, 64, 33, 95]
 marks.pop(2)
 print(marks)
 ```
 7. insert() => insert element at specific index
-----Syntax:
+Syntax:
     list_name.insert(index,element) 
-----Example code: 
+Example code: 
 ```python
 marks = [87, 64, 33, 95]
 marks.insert(2,888)
