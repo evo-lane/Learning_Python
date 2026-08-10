@@ -116,9 +116,9 @@ Methods are specific functions to perform particular tasks. There are multiple
 different list methods. Some of them are given below:
 
 1. append() => used to add a single element at the end of the list
-Syntax:
+   1. Syntax:
     list_name.append(element) 
-    Example code:    
+   2. Example code:    
 ```python
 marks = [87, 64, 33, 95]
 marks.append(100)
