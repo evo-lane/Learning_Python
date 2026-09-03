@@ -259,21 +259,19 @@ print("Question 8:")
 print()
 
 hours = [2, 4, 3, 5, 6, 1, 4]
-original_hours = hours.copy()
 
 # Hours from 3rd day to 6th day
 
-print("Obtained Portion:" ,hours[2:6])
+portion = hours[2:6]
 
 # Sorting obtained portion
 
-portion = hours[2:6]
 portion.sort(reverse = True)
 print("Sorted Portion: ", portion)
 
 # Displaying the original list
 
-print("Original List:", original_hours)
+print("Original List:", hours)
 print()
 
 #  ___________(Question 9)__________
@@ -335,7 +333,6 @@ print("Question 10:")
 print()
 
 python_progress = ["Variables",85,"Strings",True,72]
-original_list = python_progress.copy()
 
 # Displaying student's current record
 
@@ -380,7 +377,7 @@ print("Reversed List: ",python_progress)
 
 # Displaying the original list
 
-print("Original List:", original_list)
+print("Modified original List:", python_progress)
 
 # Displaying the sliced portion
 
